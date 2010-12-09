@@ -1,9 +1,9 @@
-" ir_black color scheme
+" ir_dusty color scheme
 " More at: http://blog.infinitered.com/entries/show/8
 
 
 " ********************************************************************************
-" Standard colors used in all ir_black themes:
+" Standard colors used in all ir_dusty themes:
 " Note, x:x:x are RGB values
 "
 "  normal: #f6f3e8
@@ -60,7 +60,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "ir_black"
+let colors_name = "ir_dusty"
 
 
 "hi Example         guifg=NONE        guibg=NONE        gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
